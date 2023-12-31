@@ -7,6 +7,7 @@ Diseases are associated with symptoms using the maladies/1 predicate.
 
 ### Information Display:
 afficher_symptomes_associes/3: Displays information about selected symptoms and associated disease.
+
 afficher_maladies_associes/3: Displays information about selected symptoms and associated diseases.
 
 ### Advice:
