@@ -6,9 +6,9 @@ This Prolog code defines a simple expert system for mental health diagnosis and 
 Diseases are associated with symptoms using the maladies/1 predicate.
 
 ### Information Display:
-afficher_symptomes_associes/3: Displays information about selected symptoms and associated disease.
+afficher_symptomes_associes/3: Displays information about selected disease and associated symptome.
 
-afficher_maladies_associes/3: Displays information about selected symptoms and associated diseases.
+afficher_maladies_associes/3: Displays information about selected symptoms and associated disease.
 
 ### Advice:
 The conseil/2 predicate provides advice for specific mental health disorders.
